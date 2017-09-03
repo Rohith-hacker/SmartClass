@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334443684695",
+    "firebase_url": "https://smartclass-d1890.firebaseio.com",
+    "project_id": "smartclass-d1890",
+    "storage_bucket": "smartclass-d1890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334443684695:android:f20d7e0f4665533d",
+        "android_client_info": {
+          "package_name": "com.rohithcoder.smartclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334443684695-qskhma4i6lbi7qsjr1dqmecples4828k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohithcoder.smartclass",
+            "certificate_hash": "197d34a05ae2515752c08e010811519855d02c24"
+          }
+        },
+        {
+          "client_id": "334443684695-naoqkej0nacppgtitd83imv5r6l6s79f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9I7dF8vLmcLZ3xqFWGK_nxRpCMc-QsEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334443684695-naoqkej0nacppgtitd83imv5r6l6s79f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
